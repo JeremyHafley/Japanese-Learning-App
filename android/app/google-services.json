@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15587819336",
+    "project_id": "two-lips-rkeei8",
+    "storage_bucket": "two-lips-rkeei8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15587819336:android:932187ef7ec8f6dbaafd7d",
+        "android_client_info": {
+          "package_name": "com.mycompany.twolips"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTt_F7YO9SUYWIJTooObT1DirmUzi-89I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
